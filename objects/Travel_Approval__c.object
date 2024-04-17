@@ -247,11 +247,6 @@ All others = gear in progress</inlineHelpText>
                     <label>New</label>
                 </value>
                 <value>
-                    <fullName>Submitted</fullName>
-                    <default>false</default>
-                    <label>Submitted</label>
-                </value>
-                <value>
                     <fullName>Pending Approval</fullName>
                     <default>false</default>
                     <label>Pending Approval</label>
