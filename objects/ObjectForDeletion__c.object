@@ -153,25 +153,6 @@
     <enableSharing>true</enableSharing>
     <enableStreamingApi>true</enableStreamingApi>
     <externalSharingModel>Private</externalSharingModel>
-    <fields>
-        <fullName>NumberFieldToBeDeleted__c</fullName>
-        <externalId>false</externalId>
-        <label>NumberFieldToBeDeleted</label>
-        <precision>18</precision>
-        <required>false</required>
-        <scale>0</scale>
-        <trackTrending>false</trackTrending>
-        <type>Number</type>
-        <unique>false</unique>
-    </fields>
-    <fields>
-        <fullName>PhoneFieldToBeDeleted__c</fullName>
-        <externalId>false</externalId>
-        <label>PhoneFieldToBeDeleted</label>
-        <required>false</required>
-        <trackTrending>false</trackTrending>
-        <type>Phone</type>
-    </fields>
     <label>ObjectForDeletion</label>
     <nameField>
         <label>ObjectForDeletion Name</label>
