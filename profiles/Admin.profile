@@ -21152,6 +21152,9 @@
         <layout>Department__c-Department Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
+        <layout>Dev4Object__c-Dev4Object Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
         <layout>Dev5Object__c-Dev5Object Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
@@ -21563,6 +21566,15 @@
         <allowRead>true</allowRead>
         <modifyAllRecords>true</modifyAllRecords>
         <object>Department__c</object>
+        <viewAllRecords>true</viewAllRecords>
+    </objectPermissions>
+    <objectPermissions>
+        <allowCreate>true</allowCreate>
+        <allowDelete>true</allowDelete>
+        <allowEdit>true</allowEdit>
+        <allowRead>true</allowRead>
+        <modifyAllRecords>true</modifyAllRecords>
+        <object>Dev4Object__c</object>
         <viewAllRecords>true</viewAllRecords>
     </objectPermissions>
     <objectPermissions>
