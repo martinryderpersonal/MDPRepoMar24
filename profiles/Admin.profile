@@ -186,6 +186,10 @@
         <visible>false</visible>
     </applicationVisibilities>
     <classAccesses>
+        <apexClass>CopadoRallySyncUserStoriesController</apexClass>
+        <enabled>true</enabled>
+    </classAccesses>
+    <classAccesses>
         <apexClass>ImportPresetComplianceRules</apexClass>
         <enabled>true</enabled>
     </classAccesses>
