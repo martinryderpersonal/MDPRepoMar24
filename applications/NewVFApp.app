@@ -12,7 +12,7 @@
     <isOmniPinnedViewEnabled>false</isOmniPinnedViewEnabled>
     <label>NewVFApp</label>
     <navType>Standard</navType>
-    <tabs>NewVFPage</tabs>
+    <tabs>NewVFPage2</tabs>
     <uiType>Lightning</uiType>
     <utilityBar>NewVFApp_UtilityBar</utilityBar>
 </CustomApplication>

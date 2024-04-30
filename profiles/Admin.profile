@@ -24072,6 +24072,10 @@
         <visibility>DefaultOn</visibility>
     </tabVisibilities>
     <tabVisibilities>
+        <tab>NewVFPage2</tab>
+        <visibility>DefaultOn</visibility>
+    </tabVisibilities>
+    <tabVisibilities>
         <tab>Profile2PermSet__Converter</tab>
         <visibility>DefaultOn</visibility>
     </tabVisibilities>
