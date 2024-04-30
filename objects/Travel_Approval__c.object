@@ -275,6 +275,19 @@ All others = gear in progress</inlineHelpText>
         </valueSet>
     </fields>
     <fields>
+        <fullName>TANumber__c</fullName>
+        <externalId>false</externalId>
+        <label>TANumber</label>
+        <precision>18</precision>
+        <required>false</required>
+        <scale>0</scale>
+        <trackFeedHistory>false</trackFeedHistory>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Number</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
         <fullName>Total_Expenses__c</fullName>
         <externalId>false</externalId>
         <inlineHelpText>This is a RUS field and it sums all Expense Amounts tied to each individual Travel Approval record</inlineHelpText>
