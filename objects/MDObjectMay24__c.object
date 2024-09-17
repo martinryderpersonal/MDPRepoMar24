@@ -153,6 +153,13 @@
     <enableSharing>true</enableSharing>
     <enableStreamingApi>true</enableStreamingApi>
     <externalSharingModel>Private</externalSharingModel>
+    <fields>
+        <fullName>MDObjectMay24_Checkbox__c</fullName>
+        <defaultValue>false</defaultValue>
+        <label>MDObjectMay24 Checkbox</label>
+        <trackTrending>false</trackTrending>
+        <type>Checkbox</type>
+    </fields>
     <label>MDObjectMay24</label>
     <nameField>
         <label>MDObjectMay24 Name</label>
