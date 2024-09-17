@@ -12864,6 +12864,11 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
+        <field>MDObjectMay24__c.MDObjectMay24_Checkbox__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
         <field>ObjectForDeletion__c.NumberFieldToBeDeleted__c</field>
         <readable>true</readable>
     </fieldPermissions>
