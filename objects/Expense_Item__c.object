@@ -155,7 +155,6 @@
     <externalSharingModel>ControlledByParent</externalSharingModel>
     <fields>
         <fullName>Amount__c</fullName>
-        <externalId>false</externalId>
         <label>Amount</label>
         <precision>18</precision>
         <required>true</required>
@@ -165,7 +164,6 @@
     </fields>
     <fields>
         <fullName>Expense_Type__c</fullName>
-        <externalId>false</externalId>
         <label>Expense Type</label>
         <required>false</required>
         <trackTrending>false</trackTrending>
@@ -215,7 +213,6 @@
     </fields>
     <fields>
         <fullName>Travel_Approval__c</fullName>
-        <externalId>false</externalId>
         <label>Travel Approval</label>
         <referenceTo>Travel_Approval__c</referenceTo>
         <relationshipLabel>Expense Items</relationshipLabel>

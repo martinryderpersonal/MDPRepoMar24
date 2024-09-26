@@ -8,7 +8,6 @@ E.g.
 Case
 Lead
 Contact</description>
-        <externalId>false</externalId>
         <fieldManageability>SubscriberControlled</fieldManageability>
         <inlineHelpText>List of Object names (one per line) that are allowed to query, beside the Copado Objects.</inlineHelpText>
         <label>Allowed Objects</label>
@@ -21,7 +20,6 @@ Contact</description>
         <defaultValue>false</defaultValue>
         <deprecated>false</deprecated>
         <description>Set to true if the OpenAI Model allows Function calls</description>
-        <externalId>false</externalId>
         <fieldManageability>SubscriberControlled</fieldManageability>
         <inlineHelpText>Set to true if the OpenAI Model allows Function calls</inlineHelpText>
         <label>Allows Functions</label>
@@ -31,7 +29,6 @@ Contact</description>
         <fullName>copadoAiHelper__CopadoGPT_backend_URL__c</fullName>
         <deprecated>false</deprecated>
         <description>By default, if this is empty, AI Companion will use the url of the named credential &quot;mc-backend&quot; (API Name mc_backend). You can set this field if a different URL is needed for your installation</description>
-        <externalId>false</externalId>
         <fieldManageability>DeveloperControlled</fieldManageability>
         <inlineHelpText>By default, if this is empty, AI Companion will use the url of the named credential &quot;mc-backend&quot; (API Name mc_backend). You can set this field if a different URL is needed for your installation</inlineHelpText>
         <label>CopadoGPT backend URL</label>

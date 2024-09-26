@@ -8,7 +8,6 @@ You can disable/enable questions and create new ones.</description>
         <defaultValue>false</defaultValue>
         <deprecated>false</deprecated>
         <description>If Active, this Prompt will be visible in the AI Companion</description>
-        <externalId>false</externalId>
         <fieldManageability>SubscriberControlled</fieldManageability>
         <inlineHelpText>If Active, this Prompt will be visible in the AI Companion</inlineHelpText>
         <label>Active</label>
@@ -20,7 +19,6 @@ You can disable/enable questions and create new ones.</description>
         <description>Question/Prompt for ChatGPT. It can contain special keywords such as {title}, {project name} and others.
 Consult the documentation to know which keywords are available for which Object
 See this to understand the System messages role: https://platform.openai.com/docs/guides/gpt/chat-completions-api</description>
-        <externalId>false</externalId>
         <fieldManageability>DeveloperControlled</fieldManageability>
         <inlineHelpText>Question/Prompt for ChatGPT. It can contain special keywords such as {title}, {project name} and others.
 Consult the documentation to know which keywords are available for which Object
@@ -36,7 +34,6 @@ See this to understand the System messages role: https://platform.openai.com/doc
         <description>Question/Prompt for ChatGPT. It can contain special keywords such as {title}, {project name} and others.
 Consult the documentation to know which keywords are available for which Object
 See this to understand the System messages role: https://platform.openai.com/docs/guides/gpt/chat-completions-api</description>
-        <externalId>false</externalId>
         <fieldManageability>SubscriberControlled</fieldManageability>
         <inlineHelpText>Question/Prompt for ChatGPT. It can contain special keywords such as {title}, {project name} and others.
 Consult the documentation to know which keywords are available for which Object
@@ -92,7 +89,6 @@ See this to understand the System messages role: https://platform.openai.com/doc
         <deprecated>false</deprecated>
         <description>Question/Prompt for ChatGPT. It can contain special keywords such as {title}, {project name} and others.
 Consult the documentation to know which keywords are available for which Object</description>
-        <externalId>false</externalId>
         <fieldManageability>SubscriberControlled</fieldManageability>
         <inlineHelpText>Question/Prompt for ChatGPT. It can contain special keywords such as {title}, {project name} and others.
 Consult the documentation to know which keywords are available for which Object</inlineHelpText>
@@ -107,7 +103,6 @@ Consult the documentation to know which keywords are available for which Object<
         <description>Question/Prompt for ChatGPT. It can contain special keywords such as {title}, {project name} and others.
 Consult the documentation to know which keywords are available for which Object
 See this to understand the System messages role: https://platform.openai.com/docs/guides/gpt/chat-completions-api</description>
-        <externalId>false</externalId>
         <fieldManageability>SubscriberControlled</fieldManageability>
         <inlineHelpText>Question/Prompt for ChatGPT. It can contain special keywords such as {title}, {project name} and others.
 Consult the documentation to know which keywords are available for which Object

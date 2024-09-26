@@ -151,6 +151,17 @@
         <type>Lookup</type>
     </fields>
     <fields>
+        <fullName>Acct_Text_Field_Mar24__c</fullName>
+        <externalId>false</externalId>
+        <label>Acct_Text_Field_Mar24</label>
+        <length>10</length>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <trackTrending>false</trackTrending>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
         <fullName>Amount</fullName>
         <trackFeedHistory>true</trackFeedHistory>
         <trackTrending>false</trackTrending>
@@ -158,7 +169,6 @@
     <fields>
         <fullName>Buyer_Budget_Verified__c</fullName>
         <defaultValue>true</defaultValue>
-        <externalId>false</externalId>
         <label>Buyer Budget Verified?</label>
         <trackFeedHistory>false</trackFeedHistory>
         <trackTrending>false</trackTrending>
@@ -177,7 +187,6 @@
     </fields>
     <fields>
         <fullName>Competitor__c</fullName>
-        <externalId>false</externalId>
         <label>Competitor</label>
         <required>false</required>
         <trackFeedHistory>false</trackFeedHistory>

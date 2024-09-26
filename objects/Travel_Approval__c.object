@@ -156,7 +156,6 @@
     <fields>
         <fullName>Department__c</fullName>
         <deleteConstraint>SetNull</deleteConstraint>
-        <externalId>false</externalId>
         <label>Department</label>
         <referenceTo>Department__c</referenceTo>
         <relationshipLabel>Travel Approvals</relationshipLabel>
@@ -195,7 +194,6 @@
     <fields>
         <fullName>Out_of_State__c</fullName>
         <defaultValue>false</defaultValue>
-        <externalId>false</externalId>
         <inlineHelpText>There is no automation to check this box at the moment.  If you are traveling out-of-state, relative to your home/work state, check this box.</inlineHelpText>
         <label>Out-of-State</label>
         <trackFeedHistory>false</trackFeedHistory>
@@ -205,7 +203,6 @@
     </fields>
     <fields>
         <fullName>Purpose_of_Trip__c</fullName>
-        <externalId>false</externalId>
         <label>Purpose of Trip</label>
         <required>false</required>
         <trackFeedHistory>false</trackFeedHistory>
@@ -231,7 +228,6 @@ All others = gear in progress</inlineHelpText>
     </fields>
     <fields>
         <fullName>Status__c</fullName>
-        <externalId>false</externalId>
         <label>Status</label>
         <required>false</required>
         <trackFeedHistory>false</trackFeedHistory>
@@ -284,7 +280,6 @@ All others = gear in progress</inlineHelpText>
     </fields>
     <fields>
         <fullName>Total_Expenses__c</fullName>
-        <externalId>false</externalId>
         <inlineHelpText>This is a RUS field and it sums all Expense Amounts tied to each individual Travel Approval record</inlineHelpText>
         <label>Total Expenses</label>
         <summarizedField>Expense_Item__c.Amount__c</summarizedField>
@@ -296,7 +291,6 @@ All others = gear in progress</inlineHelpText>
     </fields>
     <fields>
         <fullName>Trip_End_Date__c</fullName>
-        <externalId>false</externalId>
         <label>Trip End Date</label>
         <required>false</required>
         <trackFeedHistory>false</trackFeedHistory>
@@ -306,7 +300,6 @@ All others = gear in progress</inlineHelpText>
     </fields>
     <fields>
         <fullName>Trip_Start_Date__c</fullName>
-        <externalId>false</externalId>
         <label>Trip Start Date</label>
         <required>false</required>
         <trackFeedHistory>false</trackFeedHistory>

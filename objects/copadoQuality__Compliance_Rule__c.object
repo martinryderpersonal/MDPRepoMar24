@@ -158,7 +158,6 @@
     <fields>
         <fullName>copadoQuality__Action__c</fullName>
         <deprecated>false</deprecated>
-        <externalId>false</externalId>
         <label>Action</label>
         <required>true</required>
         <trackTrending>false</trackTrending>
@@ -189,7 +188,6 @@
         <fullName>copadoQuality__Active__c</fullName>
         <defaultValue>true</defaultValue>
         <deprecated>false</deprecated>
-        <externalId>false</externalId>
         <label>Active</label>
         <trackTrending>false</trackTrending>
         <type>Checkbox</type>
@@ -197,7 +195,6 @@
     <fields>
         <fullName>copadoQuality__ConfigJSON__c</fullName>
         <deprecated>false</deprecated>
-        <externalId>false</externalId>
         <label>ConfigJSON</label>
         <length>131072</length>
         <trackTrending>false</trackTrending>
@@ -222,7 +219,6 @@ For ex. ‘Standard profile to have no access of customer’s PII fields’.</in
     <fields>
         <fullName>copadoQuality__Extension_Configuration__c</fullName>
         <deprecated>false</deprecated>
-        <externalId>false</externalId>
         <label>Extension Configuration</label>
         <referenceTo>copado__ExtensionConfiguration__c</referenceTo>
         <relationshipLabel>Compliance Rules</relationshipLabel>
@@ -236,7 +232,6 @@ For ex. ‘Standard profile to have no access of customer’s PII fields’.</in
     <fields>
         <fullName>copadoQuality__Risk_Detail__c</fullName>
         <deprecated>false</deprecated>
-        <externalId>false</externalId>
         <label>Risk Detail</label>
         <length>131072</length>
         <trackTrending>false</trackTrending>
@@ -257,7 +252,6 @@ For ex. ‘Standard profile to have no access of customer’s PII fields’.</in
     <fields>
         <fullName>copadoQuality__Severity__c</fullName>
         <deprecated>false</deprecated>
-        <externalId>false</externalId>
         <label>Severity</label>
         <required>true</required>
         <trackTrending>false</trackTrending>
@@ -292,7 +286,6 @@ For ex. ‘Standard profile to have no access of customer’s PII fields’.</in
     <fields>
         <fullName>copadoQuality__XPath_Expression__c</fullName>
         <deprecated>false</deprecated>
-        <externalId>false</externalId>
         <label>XPath Expression</label>
         <length>32768</length>
         <trackTrending>false</trackTrending>

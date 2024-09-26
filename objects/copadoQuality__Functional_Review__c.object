@@ -181,7 +181,6 @@
     <fields>
         <fullName>copadoQuality__Config_JSON__c</fullName>
         <deprecated>false</deprecated>
-        <externalId>false</externalId>
         <label>Config JSON</label>
         <length>131072</length>
         <trackHistory>false</trackHistory>
@@ -192,7 +191,6 @@
     <fields>
         <fullName>copadoQuality__Description__c</fullName>
         <deprecated>false</deprecated>
-        <externalId>false</externalId>
         <inlineHelpText>Provide an outline about e.g. which parts of your application it should focus on, or where to find further information. Include links to documentation and videos to enable your reviewers.</inlineHelpText>
         <label>Description</label>
         <length>131072</length>
@@ -205,7 +203,6 @@
         <fullName>copadoQuality__Epic__c</fullName>
         <deleteConstraint>SetNull</deleteConstraint>
         <deprecated>false</deprecated>
-        <externalId>false</externalId>
         <inlineHelpText>Specify the Epic to which this review might be related.</inlineHelpText>
         <label>Epic</label>
         <referenceTo>copado__Epic__c</referenceTo>
@@ -220,7 +217,6 @@
         <fullName>copadoQuality__Extension_Configuration__c</fullName>
         <deleteConstraint>SetNull</deleteConstraint>
         <deprecated>false</deprecated>
-        <externalId>false</externalId>
         <label>Extension Configuration</label>
         <referenceTo>copado__ExtensionConfiguration__c</referenceTo>
         <relationshipLabel>Functional Reviews</relationshipLabel>
@@ -234,7 +230,6 @@
         <fullName>copadoQuality__Feature__c</fullName>
         <deleteConstraint>SetNull</deleteConstraint>
         <deprecated>false</deprecated>
-        <externalId>false</externalId>
         <inlineHelpText>Use this to specify if the review is for a specific Feature.</inlineHelpText>
         <label>Feature</label>
         <referenceTo>copado__Application_Feature__c</referenceTo>
@@ -248,7 +243,6 @@
     <fields>
         <fullName>copadoQuality__Planned_Date__c</fullName>
         <deprecated>false</deprecated>
-        <externalId>false</externalId>
         <inlineHelpText>Optional: Date when the review should happen.</inlineHelpText>
         <label>Planned Date</label>
         <required>false</required>
@@ -260,7 +254,6 @@
         <fullName>copadoQuality__Review_Environment__c</fullName>
         <deleteConstraint>SetNull</deleteConstraint>
         <deprecated>false</deprecated>
-        <externalId>false</externalId>
         <inlineHelpText>If available, select the Environment where the review should take place. If provided and if there&apos;s an active org credential, Copado will aim to auto-log in users when starting a review.</inlineHelpText>
         <label>Review Environment</label>
         <referenceTo>copado__Environment__c</referenceTo>
@@ -274,7 +267,6 @@
     <fields>
         <fullName>copadoQuality__Review_Outcome__c</fullName>
         <deprecated>false</deprecated>
-        <externalId>false</externalId>
         <inlineHelpText>Provide a summary of the review. Feel free to link to further tracking sources like Spreadsheets or quip documents. This can be partially auto-generated with comments from the individual reviews or with AI generated summaries.</inlineHelpText>
         <label>Review Outcome</label>
         <length>131072</length>
@@ -299,7 +291,6 @@
         <fullName>copadoQuality__User_Story__c</fullName>
         <deleteConstraint>SetNull</deleteConstraint>
         <deprecated>false</deprecated>
-        <externalId>false</externalId>
         <label>User Story</label>
         <referenceTo>copado__User_Story__c</referenceTo>
         <relationshipLabel>Functional Reviews</relationshipLabel>

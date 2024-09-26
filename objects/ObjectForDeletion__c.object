@@ -166,7 +166,6 @@
     </fields>
     <fields>
         <fullName>PhoneFieldToBeDeleted__c</fullName>
-        <externalId>false</externalId>
         <label>PhoneFieldToBeDeleted</label>
         <required>false</required>
         <trackTrending>false</trackTrending>
@@ -178,7 +177,7 @@
         <type>Text</type>
     </nameField>
     <pluralLabel>ObjectsForDeletion</pluralLabel>
-    <searchLayouts />
+    <searchLayouts/>
     <sharingModel>ReadWrite</sharingModel>
     <visibility>Public</visibility>
 </CustomObject>

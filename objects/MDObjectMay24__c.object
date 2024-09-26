@@ -162,6 +162,8 @@
     </fields>
     <fields>
         <fullName>MSPicklist_Sept__c</fullName>
+        <description>Here is a description</description>
+        <inlineHelpText>Here is some help text</inlineHelpText>
         <label>MSPicklist Sept</label>
         <required>false</required>
         <trackTrending>false</trackTrending>
@@ -186,14 +188,35 @@
                     <label>Three</label>
                 </value>
                 <value>
-                    <fullName>Four</fullName>
-                    <default>false</default>
-                    <label>Four</label>
-                </value>
-                <value>
                     <fullName>Five</fullName>
                     <default>false</default>
                     <label>Five</label>
+                </value>
+                <value>
+                    <fullName>Six</fullName>
+                    <default>false</default>
+                    <label>Six</label>
+                </value>
+                <value>
+                    <fullName>Seven</fullName>
+                    <default>false</default>
+                    <label>Seven</label>
+                </value>
+                <value>
+                    <fullName>Eight</fullName>
+                    <default>false</default>
+                    <label>Eight</label>
+                </value>
+                <value>
+                    <fullName>Nine</fullName>
+                    <default>false</default>
+                    <label>Nine</label>
+                </value>
+                <value>
+                    <fullName>Four</fullName>
+                    <default>false</default>
+                    <isActive>false</isActive>
+                    <label>Four</label>
                 </value>
             </valueSetDefinition>
         </valueSet>
@@ -205,7 +228,7 @@
         <type>Text</type>
     </nameField>
     <pluralLabel>MDObjectMay24s</pluralLabel>
-    <searchLayouts />
+    <searchLayouts/>
     <sharingModel>ReadWrite</sharingModel>
     <visibility>Public</visibility>
 </CustomObject>

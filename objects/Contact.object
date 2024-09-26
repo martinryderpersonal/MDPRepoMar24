@@ -344,8 +344,11 @@
         <trackFeedHistory>false</trackFeedHistory>
     </fields>
     <fields>
+        <fullName>ContactSource</fullName>
+        <trackFeedHistory>false</trackFeedHistory>
+    </fields>
+    <fields>
         <fullName>Contact_Tier__c</fullName>
-        <externalId>false</externalId>
         <label>Contact Tier</label>
         <required>false</required>
         <trackFeedHistory>false</trackFeedHistory>
@@ -421,7 +424,6 @@
     <fields>
         <fullName>Key_Contact__c</fullName>
         <defaultValue>false</defaultValue>
-        <externalId>false</externalId>
         <label>Key Contact</label>
         <trackFeedHistory>false</trackFeedHistory>
         <type>Checkbox</type>
