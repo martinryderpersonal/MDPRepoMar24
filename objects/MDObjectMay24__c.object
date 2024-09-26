@@ -173,6 +173,21 @@
             <valueSetDefinition>
                 <sorted>false</sorted>
                 <value>
+                    <fullName>Potato</fullName>
+                    <default>false</default>
+                    <label>Potato</label>
+                </value>
+                <value>
+                    <fullName>Tomato</fullName>
+                    <default>false</default>
+                    <label>Tomato</label>
+                </value>
+                <value>
+                    <fullName>Rotato</fullName>
+                    <default>false</default>
+                    <label>Rotato</label>
+                </value>
+                <value>
                     <fullName>One</fullName>
                     <default>false</default>
                     <label>One</label>
@@ -186,11 +201,6 @@
                     <fullName>Three</fullName>
                     <default>false</default>
                     <label>Three</label>
-                </value>
-                <value>
-                    <fullName>Five</fullName>
-                    <default>false</default>
-                    <label>Five</label>
                 </value>
                 <value>
                     <fullName>Six</fullName>
@@ -208,15 +218,22 @@
                     <label>Eight</label>
                 </value>
                 <value>
-                    <fullName>Nine</fullName>
+                    <fullName>Five</fullName>
                     <default>false</default>
-                    <label>Nine</label>
+                    <isActive>false</isActive>
+                    <label>Five</label>
                 </value>
                 <value>
                     <fullName>Four</fullName>
                     <default>false</default>
                     <isActive>false</isActive>
                     <label>Four</label>
+                </value>
+                <value>
+                    <fullName>Nine</fullName>
+                    <default>false</default>
+                    <isActive>false</isActive>
+                    <label>Nine</label>
                 </value>
             </valueSetDefinition>
         </valueSet>
@@ -228,7 +245,7 @@
         <type>Text</type>
     </nameField>
     <pluralLabel>MDObjectMay24s</pluralLabel>
-    <searchLayouts/>
+    <searchLayouts />
     <sharingModel>ReadWrite</sharingModel>
     <visibility>Public</visibility>
 </CustomObject>
