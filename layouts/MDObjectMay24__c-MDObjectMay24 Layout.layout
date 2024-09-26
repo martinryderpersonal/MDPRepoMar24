@@ -14,6 +14,10 @@
                 <behavior>Edit</behavior>
                 <field>MDObjectMay24_Checkbox__c</field>
             </layoutItems>
+            <layoutItems>
+                <behavior>Edit</behavior>
+                <field>MSPicklist_Sept__c</field>
+            </layoutItems>
         </layoutColumns>
         <layoutColumns>
             <layoutItems>
