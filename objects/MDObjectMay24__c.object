@@ -245,6 +245,46 @@
         <type>Text</type>
     </nameField>
     <pluralLabel>MDObjectMay24s</pluralLabel>
+    <recordTypes>
+        <fullName>TypeA</fullName>
+        <active>true</active>
+        <label>TypeA</label>
+        <picklistValues>
+            <picklist>MSPicklist_Sept__c</picklist>
+            <values>
+                <fullName>Potato</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Rotato</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Tomato</fullName>
+                <default>false</default>
+            </values>
+        </picklistValues>
+    </recordTypes>
+    <recordTypes>
+        <fullName>TypeB</fullName>
+        <active>true</active>
+        <label>TypeB</label>
+        <picklistValues>
+            <picklist>MSPicklist_Sept__c</picklist>
+            <values>
+                <fullName>One</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Three</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Two</fullName>
+                <default>false</default>
+            </values>
+        </picklistValues>
+    </recordTypes>
     <searchLayouts />
     <sharingModel>ReadWrite</sharingModel>
     <visibility>Public</visibility>
