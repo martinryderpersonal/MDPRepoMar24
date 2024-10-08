@@ -4,9 +4,10 @@ public class TaskUtil {
         if (String.isBlank(leadState) || leadState.length() > 2) {
             return null;
         }
+        //Set the task priority
         String taskPriority;
         if (leadState == 'CA') {
-             taskPriority = 'High'; 
+             taskPriority = 'High';
         } else {
              taskPriority = 'Normal';
         }
