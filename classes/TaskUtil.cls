@@ -5,6 +5,7 @@ public class TaskUtil {
         // Return null
             return null;
         }
+        //Set the task priority
         String taskPriority;
         if (leadState == 'CA') {
              taskPriority = 'High';
